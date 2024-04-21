@@ -1,0 +1,11 @@
+operator:
+    address: 0xc208b74688a2e8d3efe8e96a5d229abd00975a23
+    earnings_receiver_address: 0xc208b74688a2e8d3efe8e96a5d229abd00975a23
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: ""
+el_delegation_manager_address: 0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A
+eth_rpc_url: https://rpc.ankr.com/eth
+private_key_store_path: /root/.eigenlayer/operator_keys/kill.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 1
